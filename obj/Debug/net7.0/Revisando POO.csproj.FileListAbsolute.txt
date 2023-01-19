@@ -1,0 +1,15 @@
+F:\Projetos\Dio-Desafio-GitHub\POO\Revisando POO\bin\Debug\net7.0\Revisando POO.exe
+F:\Projetos\Dio-Desafio-GitHub\POO\Revisando POO\bin\Debug\net7.0\Revisando POO.deps.json
+F:\Projetos\Dio-Desafio-GitHub\POO\Revisando POO\bin\Debug\net7.0\Revisando POO.runtimeconfig.json
+F:\Projetos\Dio-Desafio-GitHub\POO\Revisando POO\bin\Debug\net7.0\Revisando POO.dll
+F:\Projetos\Dio-Desafio-GitHub\POO\Revisando POO\bin\Debug\net7.0\Revisando POO.pdb
+F:\Projetos\Dio-Desafio-GitHub\POO\Revisando POO\obj\Debug\net7.0\Revisando POO.csproj.AssemblyReference.cache
+F:\Projetos\Dio-Desafio-GitHub\POO\Revisando POO\obj\Debug\net7.0\Revisando POO.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos\Dio-Desafio-GitHub\POO\Revisando POO\obj\Debug\net7.0\Revisando POO.AssemblyInfoInputs.cache
+F:\Projetos\Dio-Desafio-GitHub\POO\Revisando POO\obj\Debug\net7.0\Revisando POO.AssemblyInfo.cs
+F:\Projetos\Dio-Desafio-GitHub\POO\Revisando POO\obj\Debug\net7.0\Revisando POO.csproj.CoreCompileInputs.cache
+F:\Projetos\Dio-Desafio-GitHub\POO\Revisando POO\obj\Debug\net7.0\Revisando POO.dll
+F:\Projetos\Dio-Desafio-GitHub\POO\Revisando POO\obj\Debug\net7.0\refint\Revisando POO.dll
+F:\Projetos\Dio-Desafio-GitHub\POO\Revisando POO\obj\Debug\net7.0\Revisando POO.pdb
+F:\Projetos\Dio-Desafio-GitHub\POO\Revisando POO\obj\Debug\net7.0\Revisando POO.genruntimeconfig.cache
+F:\Projetos\Dio-Desafio-GitHub\POO\Revisando POO\obj\Debug\net7.0\ref\Revisando POO.dll
